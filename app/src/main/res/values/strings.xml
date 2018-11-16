@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ganado-UraGra</string>
+    <string name="Correo_Electronico">Correo electronico</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Iniciar_Sesión">Iniciar Sesión</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="RepContraseña">Repetir Contraseña</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Texto">BIENVENIDO</string>
+    <string name="Texto1">Ganado-UraGra</string>
+    <string name="Texto2">Aplicación diseñada para la compra y venta de ganado, de la región de Uraba Grande</string>
+    <string name="Home">Home</string>
+    <string name="precio">Precio:</string>
+    <string name="codigo">Codigo:</string>
+    <string name="Observaciones">Observaciones:</string>
+    <string name="cantidad">Cantidad de animales:</string>
+    <string name="raza">Raza:</string>
+    <string name="color">Color:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="Peso">Peso aproximado:</string>
+    <string name="edad">Edad aproximada:</string>
+    <string name="guardar">Guardar</string>
+</resources>

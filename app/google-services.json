@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "761163816527",
+    "firebase_url": "https://ganadouragra2-master.firebaseio.com",
+    "project_id": "ganadouragra2-master",
+    "storage_bucket": "ganadouragra2-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761163816527:android:5f9f822ef5c8dcb6",
+        "android_client_info": {
+          "package_name": "com.laugracianool.ganado_uragra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761163816527-migqugumnn34r1skiu9rsfq4ret3g2gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laugracianool.ganado_uragra",
+            "certificate_hash": "70dd8c7446d18ec19c02578c1fede2a88790a02d"
+          }
+        },
+        {
+          "client_id": "761163816527-pqj8moera9d5877b3of5902ctek867qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVAms-JMaE2BenfDbaiEtDP-44dLmcSj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761163816527-pqj8moera9d5877b3of5902ctek867qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
